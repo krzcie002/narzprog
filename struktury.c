@@ -17,6 +17,7 @@ struct Kolo{
     float r1;
 };
 
+//zadanie 1
 void zad1(){
     int n;
     puts("podaj ile osob chcesz dodac do listy.");
