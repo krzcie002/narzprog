@@ -35,6 +35,7 @@ void zad1(){
     }
 }
 
+//zadanie 2
 void zad2(){
     int punktA, punktB;
     struct  Kolo k1 = {
