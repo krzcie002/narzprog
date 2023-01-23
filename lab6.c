@@ -82,6 +82,7 @@ void zad5tabZ(float *wsk,float *wskTab, float *min, float *max){
 
 void zad5(){
 
+    //dodanie losowoœci
    srand(time(NULL));
 
     //tablica w zakresie 0 - 100
